@@ -1,6 +1,6 @@
 # Maschinelles Lernen 1
 
-## Einführung in die Grundlagen des Maschinenlernens mit Python und Jupyter-Notebooks
+## Einführung in die Grundlagen des Maschinellen Lernens mit Python und Jupyter-Notebooks
 
 Die Notebooks in diesem Paket stammen aus meinen Kursen zur Künstlichen Intelligenz.
 
@@ -8,7 +8,6 @@ Die Notebooks in diesem Paket stammen aus meinen Kursen zur Künstlichen Intelli
 ### Ziel des Kurses
 
 Der Kurs soll die mathematischen Grundlagen zu den verschiedenen Verfahren der Künstlichen Intelligenz liefern und diese mit Hilfe frei zugänglicher Werkzeuge vorstellen.
-
 
 ### Aufbau und Inhalt
 
@@ -44,11 +43,11 @@ allen voran _matplotlib_, ermöglichen es, die unbedingt notwendigen grafischen 
 Daten und Ergebnissen mit nur weniger Zeilen Code zu erstellen, als etwa zu einem einfachen
 "Hello, world" in einer OOP-Sprache wie Java notwendig sind.
 
-`Scikit-learn` ist eine weit verbreitete Open-Source-Bibliothek für maschinelles Lernen in Python.
+`Scikit-learn` ist eine weit verbreitete Open-Source-Bibliothek für Maschinelles Lernen in Python.
 Sie bietet eine Vielzahl von Algorithmen für überwachtes und unüberwachtes Lernen und basiert auf
 anderen wichtigen Bibliotheken wie `NumPy`, `SciPy` und `Matplotlib`. Die Modelle verfügen über einheitliche
 Schnittstellen mit Methoden wie `fit()`, `predict()` und `score()`. Durch diese Vereinheitlichung erleichtert
-sie den Einstieg in die KI und das Experimentieren mit verschiedenen Modellen und führt schnell zu erstaunlichen Ergebnisse.
+sie den Einstieg in die KI und das Experimentieren mit verschiedenen Modellen und führt schnell zu erstaunlichen Ergebnissen.
 
 
 ##### 2. Grundbegriffe der Künstlichen Intelligenz 
@@ -65,12 +64,11 @@ Während der Arbeit mit den einzelnen Verfahren werden auch die verschiedenen Be
 
 ##### 3. Die mathematischen Grundlagen
 
-Zum Verständnis der Verfahreb sind lediglich einfache Kenntnisse der (multidimensionalen) Analysis und Linearen Algebra notwendig, die in diesem Kurs ebenfalls vermittelt werden und zum größten Teil Thema eines Mathematik-Grundkurses der Oberstufe sind. Dies sind u.a.:
+Zum Verständnis der Verfahren sind lediglich einfache Kenntnisse der (mehrdimensionalen) Analysis und Linearen Algebra notwendig, die in diesem Kurs ebenfalls vermittelt werden und zum größten Teil Thema eines Mathematik-Grundkurses der Oberstufe sind. Dies sind u.a.:
 
 * Vektoren und Matrizen
 * Differentiation
 * Gradientenabstieg
-
 
 ### Der Quellcode
 

@@ -137,3 +137,4 @@ dmypy.json
 **/mnist_test.csv
 **/mnist_train.csv
 /scikit_learn_data
+/export
